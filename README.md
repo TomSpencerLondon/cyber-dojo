@@ -1,6 +1,6 @@
 # Learning Test-Driven Development (TDD) with Cyber Dojo
 
-Test-Driven Development (TDD) is a disciplined approach to programming that emphasizes writing tests before writing the actual implementation. By practicing TDD, developers can ensure their code is reliable, maintainable, and aligned with requirements. Recently, I had the opportunity to use [Cyber Dojo](https://beta.cyber-dojo.org/), a collaborative platform for coding challenges, to learn TDD by solving the classic FizzBuzz problem. Here's what I learned and why Cyber Dojo is a fantastic tool for honing programming skills.
+Test-Driven Development (TDD) is a disciplined approach to programming that emphasizes writing tests before writing the actual implementation. By practicing TDD, developers can ensure their code is reliable, maintainable, and aligned with requirements. Recently, I had the opportunity to use [Cyber Dojo](https://beta.cyber-dojo.org/), a collaborative platform for coding challenges, to learn TDD by solving the classic FizzBuzz problem. Here's what I learned and why Cyber Dojo is a useful tool for honing programming skills.
 
 ## Problem Statement: FizzBuzz
 FizzBuzz is a well-known programming exercise often used in coding interviews and practice sessions. The task is straightforward:
