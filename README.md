@@ -81,5 +81,5 @@ Cyber Dojo stands out as an effective platform for learning TDD and programming 
     - Its simplicity makes it suitable for beginners and experienced developers alike.
 
 ## Conclusion
-Cyber Dojo provided a structured and interactive environment to practice TDD with the FizzBuzz challenge. The platform's focus on testing, debugging, and iterative learning made it an invaluable tool for sharpening programming skills. For developers looking to master TDD or enhance their problem-solving abilities, Cyber Dojo is an excellent resource to explore.
+Cyber Dojo provided a structured and interactive environment to practice TDD with the FizzBuzz challenge. The platform's focus on testing, debugging, and iterative learning made it an useful tool for sharpening programming skills. For developers looking to master TDD or enhance their problem-solving abilities, Cyber Dojo is good resource to explore.
 
