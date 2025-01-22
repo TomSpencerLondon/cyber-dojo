@@ -40,11 +40,11 @@ Tests were written using JUnit, the default Java testing library. Three test cas
 
 1. **oneToThree**:
     - Validated results for numbers 1 to 3.
-    - Expected output: `"1, 2, Fizz"`.
+    - Expected output: `["1", "2", "Fizz"]`.
 
 2. **oneToFive**:
     - Expanded the range to 1 to 5.
-    - Expected output: `"1, 2, Fizz, 4, Buzz"`.
+    - Expected output: `["1", "2", "Fizz", "4", "Buzz"]`.
 
 3. **oneToFifteen**:
     - Designed to test numbers 1 to 15, but initially failed due to incomplete range logic in the implementation.
